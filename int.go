@@ -1,6 +1,6 @@
 package uniq
 
-func Int(list []int) []int {
+func UniqInt(list []int) []int {
 	check := make(map[int]bool)
 	var uinque []int
 

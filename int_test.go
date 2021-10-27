@@ -4,7 +4,7 @@ import "testing"
 
 func TestInt(t *testing.T) {
 	list := []int{1, 2, 2, 3, 4, 5, 5, 5, 6, 6, 7}
-	unique := Int(list)
+	unique := UniqInt(list)
 	want := []int{1, 2, 3, 4, 5, 6, 7}
 
 	for i, v := range unique {
