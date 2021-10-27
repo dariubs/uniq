@@ -1,7 +1,7 @@
 go uniq
 =======
 
-![test workflow](https://github.com/dariubs/uniq/actions/workflows/test.yml/badge.svg) [![Go Reference](https://pkg.go.dev/badge/github.com/dariubs/uniq.svg)](https://pkg.go.dev/github.com/dariubs/uniq)
+![test workflow](https://github.com/dariubs/uniq/actions/workflows/test.yml/badge.svg) [![Go Reference](https://pkg.go.dev/badge/github.com/dariubs/uniq.svg)](https://pkg.go.dev/github.com/dariubs/uniq) [![Go Report Card](https://goreportcard.com/badge/github.com/dariubs/uniq)](https://goreportcard.com/report/github.com/dariubs/uniq)
 
 make slice items unique in go
 
